@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{403E80D7-F5D6-92B0-D71C-4ABE2FF821F0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyBulletVelocity.cs">
+    <Files>
+      <File FileName="Assets/ActivateEnemy2.cs" Line="25" Column="2" />
+      <File FileName="Assets/my scripts/EnemyShootingAtPlayer.cs" Line="24" Column="17" />
+      <File FileName="Assets/my scripts/DangerSignEnemyGravitatingTowardsEnemy.cs" Line="21" Column="86" />
+      <File FileName="Assets/EnemyBulletVelocity.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

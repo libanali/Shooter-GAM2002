@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CE119605-0C4F-176F-BB3B-642EF8FD01F1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BossActivatingSatellite.cs">
+    <Files>
+      <File FileName="Assets/planevelocityforboss.cs" Line="11" Column="25" />
+      <File FileName="Assets/my scripts/DangerWarningHEALTHUI.cs" Line="62" Column="18" />
+      <File FileName="Assets/my scripts/DangerWarningFuel.cs" Line="48" Column="30" />
+      <File FileName="Assets/EndOfBossTrigger.cs" Line="19" Column="40" />
+      <File FileName="Assets/ActivateVelocity.cs" Line="9" Column="16" />
+      <File FileName="Assets/my scripts/BossHealth.cs" Line="66" Column="42" />
+      <File FileName="Assets/BossActivatingSatellite.cs" Line="45" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

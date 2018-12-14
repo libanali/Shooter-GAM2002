@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9E2D1D2D-5EBD-204F-C47C-EA18607E4562}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/TextTriggerUI.cs">
+    <Files>
+      <File FileName="Assets/my scripts/OnTONextScene.cs" Line="88" Column="55" />
+      <File FileName="Assets/my scripts/BulletDamage.cs" Line="17" Column="1" />
+      <File FileName="Assets/my scripts/bulletVelocity.cs" Line="12" Column="66" />
+      <File FileName="Assets/my scripts/newplayermovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/planemoving.cs" Line="12" Column="65" />
+      <File FileName="Assets/my scripts/BlackHoleGravitatingTowardsplayer.cs" Line="34" Column="2" />
+      <File FileName="Assets/my scripts/BlackHoleNextDimensionTrigger.cs" Line="32" Column="13" />
+      <File FileName="Assets/my scripts/WarningTextForLevel1.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/TextTriggerUI.cs" Line="28" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{749B00AC-B2E7-1D65-F262-512DA7C62656}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/newplayermovement2.cs">
+    <Files>
+      <File FileName="Assets/my scripts/EnemyDamage2.cs" Line="20" Column="33" />
+      <File FileName="Assets/my scripts/EnemyDamage3.cs" Line="16" Column="35" />
+      <File FileName="Assets/my scripts/HealthScriptForPlayer3.cs" Line="32" Column="9" />
+      <File FileName="Assets/BossActivatingAsteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets/planevelocityforboss.cs" Line="21" Column="70" />
+      <File FileName="Assets/my scripts/newplayermovement2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

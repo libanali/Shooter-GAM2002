@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8D82E0E6-637F-9A38-9E9E-AE66B54CCA13}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/planevelocityforboss.cs">
+    <Files>
+      <File FileName="Assets/BossActivatingSatellite.cs" Line="56" Column="17" />
+      <File FileName="Assets/my scripts/BossHealth.cs" Line="73" Column="41" />
+      <File FileName="Assets/planevelocityforboss.cs" Line="15" Column="16" />
+      <File FileName="Assets/VelocityTrigerScript.cs" Line="16" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{20F4B7B1-5EDE-E5E9-1104-AA8399050AB1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/BarrierScript.cs">
+    <Files>
+      <File FileName="Assets/my scripts/Fuel.cs" Line="29" Column="1" />
+      <File FileName="Assets/my scripts/EvilFaceVelocity.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/BulletVelocityForLevel2.cs" Line="12" Column="66" />
+      <File FileName="Assets/my scripts/bulletVelocity.cs" Line="12" Column="66" />
+      <File FileName="Assets/my scripts/OnTONextScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/paperplane.cs" Line="12" Column="63" />
+      <File FileName="Assets/my scripts/EndOfLevel.cs" Line="23" Column="45" />
+      <File FileName="Assets/my scripts/EndOfLevelTriggerForLevel2.cs" Line="20" Column="44" />
+      <File FileName="Assets/my scripts/newplayermovement.cs" Line="74" Column="2" />
+      <File FileName="Assets/my scripts/BarrierScript.cs" Line="31" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

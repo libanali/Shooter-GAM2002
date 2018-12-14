@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{27B2D2D8-C867-82CE-F836-82DB9D596544}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs">
+    <Files>
+      <File FileName="../FruitGame updated with scripts/fruitgame3/Assets/scenes/movmentscript.cs" Line="41" Column="82" />
+      <File FileName="../FruitGame updated with scripts/fruitgame3/Assets/movementscriptforgrapeonly.cs" Line="52" Column="1" />
+      <File FileName="../FruitGame updated with scripts/fruitgame3/Assets/jump_banana.cs" Line="1" Column="1" />
+      <File FileName="../FruitGame updated with scripts/fruitgame3/Assets/movementscriptforkiwionly.cs" Line="41" Column="86" />
+      <File FileName="../FruitGame updated with scripts/fruitgame3/Assets/movementscriptforstrawberry.cs" Line="41" Column="86" />
+      <File FileName="Assets/MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

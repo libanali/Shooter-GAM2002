@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{79ACAB4D-028C-161E-D964-4F0EF8B2F800}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/BulletVelocityFORNEWDIMENSION1.cs">
+    <Files>
+      <File FileName="Assets/my scripts/HealthScriptForPlayer.cs" Line="40" Column="44" />
+      <File FileName="Assets/my scripts/newplayermovement.cs" Line="76" Column="10" />
+      <File FileName="Assets/BlackHoleNextDimensionTrigger.cs" Line="24" Column="44" />
+      <File FileName="Assets/my scripts/planemoving.cs" Line="16" Column="2" />
+      <File FileName="Assets/my scripts/bulletVelocity.cs" Line="19" Column="1" />
+      <File FileName="Assets/my scripts/planemovingforNEWDIMENSION.cs" Line="5" Column="40" />
+      <File FileName="Assets/my scripts/BulletVelocityFORNEWDIMENSION1.cs" Line="10" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

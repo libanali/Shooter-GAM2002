@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/My scenes/Main Menu.unity
+    guid: 16bf5c4b805e34480ac9beda479c0149
+  - enabled: 1
+    path: Assets/My scenes/Explaining the black hole.unity
+    guid: ce388db52fa564c198238eedebe7f038
+  - enabled: 1
+    path: Assets/My scenes/Information about Playerhealth.unity
+    guid: 1c0e99979ca9a4568bfa7334b4c26e4e
+  - enabled: 1
+    path: Assets/My scenes/Bonus Stage.unity
+    guid: 5b5727f243eba410a94424c4e0dbf214
+  - enabled: 1
+    path: Assets/My scenes/Gam Level 1.unity
+    guid: 42e09c4a9e18544bb9ca5adee823fa4f
+  - enabled: 1
+    path: Assets/My scenes/Retry Health for Level 3.unity
+    guid: 1a1c09ac3af794472a8089c9df1b3dc4
+  - enabled: 1
+    path: Assets/My scenes/ShootingInfo.unity
+    guid: 4c63f4d3e5680764c8534e61625a9f9a
+  - enabled: 1
+    path: Assets/My scenes/Credits.unity
+    guid: cafc342c10b5c47e09c70b86e24c3909
+  - enabled: 1
+    path: Assets/My scenes/Upgrade Menu.unity
+    guid: 0d6a573d3e2a74feab3715527b3759d8
+  - enabled: 1
+    path: Assets/My scenes/Gam Level 2.unity
+    guid: c830142a5be8b4e66abf8d7f4c0f9b5c
+  - enabled: 1
+    path: Assets/My scenes/Retry Fuel for Boss.unity
+    guid: e7d85473aaf9b40f59720a75450d3946
+  - enabled: 1
+    path: Assets/My scenes/Retry Healh for Boss.unity
+    guid: c367c53133c9349e7904136b3cd2c369
+  - enabled: 1
+    path: Assets/My scenes/Retry Fuel for Level 1.unity
+    guid: c0d96320687de42a0975815cde61c6c7
+  - enabled: 1
+    path: Assets/My scenes/Retry Fuel for level 2.unity
+    guid: 14300c3a351f74723b3557ba6231e21c
+  - enabled: 1
+    path: Assets/My scenes/Retry Fuel for Level 3.unity
+    guid: 2c6872c7e684543f889ebf2c888efcc7
+  - enabled: 1
+    path: Assets/My scenes/Retry Health for level 2.unity
+    guid: 231ec4f5ecc0f41bd88576b2c3382673
+  - enabled: 1
+    path: Assets/My scenes/Barrier Warning.unity
+    guid: e9814ff132724f24c9137d1e49a9fff2
+  - enabled: 1
+    path: Assets/My scenes/Victory3.unity
+    guid: dbc533889f9e34c7c963470071504407
+  - enabled: 1
+    path: Assets/My scenes/Retry Health for Level 1.unity
+    guid: 19d5dba67d3174f308e5a05391f29169
+  - enabled: 1
+    path: Assets/My scenes/Congratulations!.unity
+    guid: dcd008fe04e70453aba76f1a5aed84e2
+  - enabled: 1
+    path: Assets/My scenes/NewDimesion1.unity
+    guid: 104913d557cdc4250a323e43cdb223f1
+  - enabled: 1
+    path: Assets/My scenes/Victory2.unity
+    guid: db2cbcc7c39d9448495c1dd5d75dc573
+  - enabled: 1
+    path: Assets/My scenes/Upgrade Menu 2.unity
+    guid: 86153ca8645d2714e91a5b2acaebdfe7
+  - enabled: 1
+    path: Assets/My scenes/Information about Items.unity
+    guid: a23e39201a1fd440b9ee7f2c969adb37
+  - enabled: 1
+    path: Assets/My scenes/Victory1.unity
+    guid: 401b13794bde846f7b8ec1005ac5c172
+  - enabled: 1
+    path: Assets/My scenes/NewDimension2 DisableMovement.unity
+    guid: 9897c833372ca4c86bde915128d99909
+  - enabled: 1
+    path: Assets/My scenes/Movement.unity
+    guid: 34434adb489fb3b4c9d5a54819129771
+  - enabled: 1
+    path: Assets/My scenes/Information About Boss.unity
+    guid: 498bcfcbac1f44fb189363371c600172
+  - enabled: 1
+    path: Assets/My scenes/Gam Level 3.unity
+    guid: f1c35103a349b452091c63d1af2ceb2e
+  - enabled: 1
+    path: Assets/My scenes/Information About Enemies Shooting.unity
+    guid: cc69007cc4119426f9804791edd6b65f
+  - enabled: 1
+    path: Assets/My scenes/Information about Enemies.unity
+    guid: 5b8650dd806ab4dd8a4da246fe45c226
+  - enabled: 1
+    path: Assets/My scenes/Informaiton about PlayerFuel.unity
+    guid: cac08d8739ec04b18869266c9a48140c
+  m_configObjects: {}

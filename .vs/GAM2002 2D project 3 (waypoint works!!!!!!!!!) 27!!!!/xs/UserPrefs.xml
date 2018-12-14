@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FBC7E803-525F-78BE-6E11-70CA39251F95}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/Fuel.cs">
+    <Files>
+      <File FileName="Assets/my scripts/EnemyDamage2.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/Target.cs" Line="11" Column="1" />
+      <File FileName="Assets/FuelPackGravitatingTowardsPlayer.cs" Line="9" Column="1" />
+      <File FileName="Assets/my scripts/DangerSignEnemyGravitatingTowardsEnemy.cs" Line="9" Column="1" />
+      <File FileName="Assets/FuelRewardActivationScript.cs" Line="20" Column="1" />
+      <File FileName="Assets/waypoints.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/planemovingforNEWDIMENSION.cs" Line="10" Column="66" />
+      <File FileName="Assets/my scripts/AsteoridEnemyVelocity.cs" Line="12" Column="65" />
+      <File FileName="Assets/my scripts/BulletVelocityFORNEWDIMENSION1.cs" Line="10" Column="65" />
+      <File FileName="Assets/my scripts/HealthScriptForPlayer.cs" Line="29" Column="1" />
+      <File FileName="Assets/my scripts/newplayermovement3.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/Fuel.cs" Line="86" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

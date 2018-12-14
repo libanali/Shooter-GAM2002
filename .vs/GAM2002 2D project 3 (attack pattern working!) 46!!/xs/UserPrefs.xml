@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1B33A560-0AF1-1A59-96A0-144C21181FD3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/DangerFuelforLevel3.cs">
+    <Files>
+      <File FileName="Assets/my scripts/HealthScriptForPlayer4.cs" Line="44" Column="43" />
+      <File FileName="Assets/my scripts/DangerHealthforLEVEL3.cs" Line="34" Column="45" />
+      <File FileName="Assets/my scripts/DangerFuelforLevel3.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

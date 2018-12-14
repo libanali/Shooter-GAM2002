@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{920DBF8A-38AB-D5BF-95F8-3040D8A58DB0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/planemovingforLevel3.cs">
+    <Files>
+      <File FileName="Assets/my scripts/BulletDamage.cs" Line="17" Column="46" />
+      <File FileName="Assets/my scripts/planemovingforLevel3.cs" Line="12" Column="59" />
+      <File FileName="Assets/my scripts/EnemyBulletDestroyOnContact.cs" Line="26" Column="33" />
+      <File FileName="Assets/destroyoncontactwithboss.cs" Line="16" Column="6" />
+      <File FileName="Assets/boss scripts/BossShooting.cs" Line="101" Column="13" />
+      <File FileName="Assets/my scripts/EnemyDamage4Boss.cs" Line="1" Column="1" />
+      <File FileName="Assets/boss scripts/BulletDamageForBoss.cs" Line="27" Column="26" />
+      <File FileName="Assets/my scripts/OnTONextScene.cs" Line="120" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

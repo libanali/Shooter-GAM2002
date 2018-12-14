@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{45045CF2-7160-6388-4E87-323A35B4247E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my scripts/BulletVelocityForLevel2.cs">
+    <Files>
+      <File FileName="Assets/my scripts/weaponscript.cs" Line="29" Column="28" />
+      <File FileName="Assets/my scripts/bulletVelocity.cs" Line="12" Column="66" />
+      <File FileName="Assets/my scripts/BulletDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/my scripts/BulletVelocityForLevel2.cs" Line="12" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

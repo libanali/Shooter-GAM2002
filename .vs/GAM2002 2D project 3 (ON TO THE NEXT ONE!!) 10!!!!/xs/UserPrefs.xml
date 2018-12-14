@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D3B02F86-A9DC-4FE4-DD0C-4A3295EE8485}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlaneVelocityForDimension2.cs">
+    <Files>
+      <File FileName="Assets/my scripts/MenuScript.cs" Line="16" Column="6" />
+      <File FileName="Assets/my scripts/OnTONextScene.cs" Line="63" Column="59" />
+      <File FileName="Assets/DangerSignEnemyGravitatingTowardsEnemy.cs" Line="8" Column="5" />
+      <File FileName="Assets/my scripts/RocketGravitatingTowardsPlayer.cs" Line="36" Column="2" />
+      <File FileName="Assets/my scripts/newplayermovement.cs" Line="17" Column="1" />
+      <File FileName="Assets/my scripts/Fuel.cs" Line="41" Column="26" />
+      <File FileName="Assets/my scripts/BarrierScript.cs" Line="31" Column="81" />
+      <File FileName="Assets/SatelliteVelocity.cs" Line="11" Column="69" />
+      <File FileName="Assets/SatelliteGravitatingTowardsPlayer.cs" Line="36" Column="2" />
+      <File FileName="Assets/BulletVelocityforLevel3.cs" Line="11" Column="69" />
+      <File FileName="Assets/BurningAsteroidTowardsEnemy.cs" Line="15" Column="12" />
+      <File FileName="Assets/BurningEnemyVelocity.cs" Line="11" Column="68" />
+      <File FileName="Assets/PlaneVelocityForDimension2.cs" Line="12" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
